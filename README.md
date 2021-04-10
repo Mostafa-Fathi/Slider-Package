@@ -6,7 +6,8 @@ Slider Class used to creat a slider with some arguments like item height and wid
 ## Getting Started
 
 creat a SnapSlider and pass to it your widgest list and also height , width and  view port fraction
- (its a ratio used to decied the size of main item ) of items .
+
+(its a ratio used to decied the size of main item ) of items .
  
 ##  Demos 
 This project also contains :- 
