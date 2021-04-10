@@ -23,12 +23,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_swiper: ^1.1.6
-  infinite_listview: ^1.1.0
-  scroll_snap_list: ^0.7.0
+
   carousel_slider: ^3.0.0
 
-  http: ^0.13.1
 
 
 
