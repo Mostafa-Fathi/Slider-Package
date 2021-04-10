@@ -9,14 +9,14 @@ creat a SnapSlider and pass to it your widgest list and also height , width and 
  
 ##  Demos 
 This project also contains :- 
-###Custom item slider demo .
+Custom item slider demo .
 
 
 
 
 ![Farmers Market Finder Demo](demos/customitem.gif)
 
-###Image album slider demo .
+Image album slider demo .
 
 
 ![Farmers Market Finder Demo](demos/imagesdemo.gif)
