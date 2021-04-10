@@ -12,3 +12,4 @@ This project also contains :-
 Custom item slider demo .
 Image album slider demo .
 
+![Farmers Market Finder Demo](demos/t.gif)
